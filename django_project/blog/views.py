@@ -6,19 +6,19 @@ posts = [
         'author': "coreyMS", 
         'title': 'post 1', 
         'content': 'first post content', 
-        'date posted': "August 27th, 2018"
+        'date_posted': "August 27th, 2018"
     }, 
     {
         'author': "Parker S.", 
         'title': 'post 2', 
         'content': 'second post content', 
-        'dateposted': "August 27th, 2018"
+        'date_posted': "August 27th, 2018"
     }, 
     {
         'author': "RandUser3", 
         'title': 'post 3', 
         'content': 'third post content', 
-        'dateposted': "August 27th, 2018"
+        'date_posted': "August 27th, 2018"
     }, 
 ]
 
